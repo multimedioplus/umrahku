@@ -1,0 +1,6 @@
+[02-Jan-2018 13:35:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\data' not found in /home/umre3421/public_html/laravel/app/Http/Controllers/DataController.php on line 32
+[08-Jan-2018 11:26:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/umre3421/public_html/laravel/app/Http/Controllers/DataController.php on line 26
+[10-Jan-2018 11:32:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/umre3421/public_html/laravel/storage/framework/views/78da5eb8cbd19980f6c05db2c9b7e0bc0dbce854.php on line 61
+[10-Jan-2018 11:33:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/umre3421/public_html/laravel/storage/framework/views/78da5eb8cbd19980f6c05db2c9b7e0bc0dbce854.php on line 67
+[10-Jan-2018 11:33:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/umre3421/public_html/laravel/storage/framework/views/78da5eb8cbd19980f6c05db2c9b7e0bc0dbce854.php on line 67
+[10-Jan-2018 13:48:54 UTC] PHP Fatal error:  Class 'App\Http\Controllers\user' not found in /home/umre3421/public_html/laravel/app/Http/Controllers/DataController.php on line 86
